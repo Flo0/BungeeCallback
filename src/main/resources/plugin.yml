@@ -1,0 +1,6 @@
+name: BungeeCallbacks
+version: '${project.version}'
+main: com.gestankbratwurst.bungeecallbacks.BungeeCallbacks
+api-version: 1.19
+authors: [ Gestankbratwurst ]
+description: Bunge callback example plugin
